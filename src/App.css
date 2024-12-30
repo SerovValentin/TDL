@@ -1,0 +1,12 @@
+.tdl {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 1px solid black;
+  width: 400px;
+  height: auto;
+  margin: 0 auto;
+  padding: 10px;
+  border-radius: 5px;
+}
